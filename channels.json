@@ -1,116 +1,66 @@
 {
-  "version": "20260613_0014",
-  "updated": "2026-06-13T00:14:50.017104+00:00",
+  "version": "20260613_2247",
+  "updated": "2026-06-13T22:47:35.889052+00:00",
   "stats": {
-    "total": 42,
-    "online": 36,
-    "offline": 6
+    "total": 44,
+    "online": 44,
+    "offline": 0
   },
   "channels": [
     {
-      "name": "TV Cancao Nova",
-      "cat": "Religioso",
-      "url": "https://cdn.jmvstream.com/w/LVW-9365/LVW9365_3mBCe4DHnQ/playlist.m3u8"
+      "name": "TV Brasil",
+      "cat": "Abertos",
+      "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
     },
     {
-      "name": "TV Aparecida",
-      "cat": "Religioso",
-      "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8"
-    },
-    {
-      "name": "RecordTV",
-      "cat": "Variedades",
+      "name": "RecordTV SP",
+      "cat": "Abertos",
       "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
     },
     {
-      "name": "MasterChef BR",
-      "cat": "Series",
-      "url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8"
+      "name": "TV Aparecida",
+      "cat": "Abertos",
+      "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8"
     },
     {
-      "name": "Red Bull TV",
-      "cat": "Esportes",
-      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+      "name": "TV Cultura",
+      "cat": "Abertos",
+      "url": "https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/playlist.m3u8"
     },
     {
-      "name": "RunTime Romance",
-      "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4867"
+      "name": "SBT SP",
+      "cat": "Abertos",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
-      "name": "Fight Network 1",
-      "cat": "Esportes",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=566"
-    },
-    {
-      "name": "Popcornflix",
-      "cat": "Series",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=161"
-    },
-    {
-      "name": "Crackle",
-      "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=163"
-    },
-    {
-      "name": "RunTime Suspense",
-      "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865"
-    },
-    {
-      "name": "MMA TV",
-      "cat": "Esportes",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=802"
-    },
-    {
-      "name": "Canela Telenovelas",
-      "cat": "Series",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
-    },
-    {
-      "name": "RunTime",
-      "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153"
-    },
-    {
-      "name": "ge Fast",
-      "cat": "Futebol",
-      "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8"
+      "name": "RecordTV Manaus",
+      "cat": "Abertos",
+      "url": "https://playplus021-lh.akamaihd.net/i/LIVEMAO_1@359157/master.m3u8"
     },
     {
       "name": "Amazon Sat",
-      "cat": "Variedades",
+      "cat": "Abertos",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "name": "Gol TV",
-      "cat": "Futebol",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090"
+      "name": "RecordTV Minas",
+      "cat": "Abertos",
+      "url": "https://playplus017-lh.akamaihd.net/i/LIVEMG_1@326088/master.m3u8"
     },
     {
-      "name": "RunTime Crime",
+      "name": "RecordTV Brasilia",
+      "cat": "Abertos",
+      "url": "https://playplus015-lh.akamaihd.net/i/LIVEBSB_1@304752/master.m3u8"
+    },
+    {
+      "name": "Rede Minas",
+      "cat": "Abertos",
+      "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
+    },
+    {
+      "name": "Megapix (rest.)",
       "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864"
-    },
-    {
-      "name": "Classic Reruns TV",
-      "cat": "Series",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1097"
-    },
-    {
-      "name": "Canela Cinema",
-      "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2011"
-    },
-    {
-      "name": "Record News",
-      "cat": "Noticias",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431"
-    },
-    {
-      "name": "Toon Googles 1",
-      "cat": "Infantil",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=274"
+      "url": "https://stmv2.srvif.com/megapix/megapix/playlist.m3u8"
     },
     {
       "name": "RunTime Comedia",
@@ -118,19 +68,29 @@
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553"
     },
     {
-      "name": "Stingray Hits BR",
-      "cat": "Musica",
-      "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-STHBR/388.m3u8"
-    },
-    {
-      "name": "CazeTV",
-      "cat": "Futebol",
-      "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-    },
-    {
-      "name": "RunTime Familia",
+      "name": "RunTime Suspense",
       "cat": "Cinema",
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866"
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865"
+    },
+    {
+      "name": "RunTime Crime",
+      "cat": "Cinema",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864"
+    },
+    {
+      "name": "Crackle",
+      "cat": "Cinema",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=163"
+    },
+    {
+      "name": "Canela Cinema",
+      "cat": "Cinema",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2011"
+    },
+    {
+      "name": "RunTime",
+      "cat": "Cinema",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153"
     },
     {
       "name": "RunTime Acao",
@@ -138,34 +98,99 @@
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552"
     },
     {
-      "name": "Soul Cine Clube",
-      "cat": "Cinema",
-      "url": "https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8"
-    },
-    {
       "name": "CineMonde",
       "cat": "Cinema",
       "url": "https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8"
     },
     {
-      "name": "DarkFlix HD",
+      "name": "DarkFlix",
       "cat": "Cinema",
       "url": "https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8"
     },
     {
-      "name": "MovieSphere BR",
+      "name": "Soul Cine Clube",
       "cat": "Cinema",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8"
+      "url": "https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8"
     },
     {
-      "name": "TV Cultura SP",
-      "cat": "Educacao",
-      "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8"
+      "name": "ESPN (restream)",
+      "cat": "Futebol",
+      "url": "https://stmv2.srvif.com/espnbrasil/espnbrasil/playlist.m3u8"
     },
     {
-      "name": "NickToons Brasil",
+      "name": "SporTV (restream)",
+      "cat": "Futebol",
+      "url": "https://stmv2.srvif.com/sportv/sportv/playlist.m3u8"
+    },
+    {
+      "name": "MMA TV",
+      "cat": "Futebol",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=802"
+    },
+    {
+      "name": "Fight Network",
+      "cat": "Futebol",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=566"
+    },
+    {
+      "name": "Gol TV",
+      "cat": "Futebol",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090"
+    },
+    {
+      "name": "SporTV 2 (rest.)",
+      "cat": "Futebol",
+      "url": "https://stmv2.srvif.com/sportv2/sportv2/playlist.m3u8"
+    },
+    {
+      "name": "CazeTV",
+      "cat": "Futebol",
+      "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    },
+    {
+      "name": "ge Fast",
+      "cat": "Futebol",
+      "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8"
+    },
+    {
+      "name": "Red Bull TV",
+      "cat": "Futebol",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    },
+    {
+      "name": "NickToons",
       "cat": "Infantil",
       "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+    },
+    {
+      "name": "Toon Googles",
+      "cat": "Infantil",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=274"
+    },
+    {
+      "name": "Stingray Hits BR",
+      "cat": "Musica",
+      "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-STHBR/388.m3u8"
+    },
+    {
+      "name": "TV Camara",
+      "cat": "Noticias",
+      "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+    },
+    {
+      "name": "Record News",
+      "cat": "Noticias",
+      "url": "https://cdn.jmvstream.com/w/LVW-10811/LVW10811_aXRTM09wdX/chunklist.m3u8"
+    },
+    {
+      "name": "GloboNews (rest.)",
+      "cat": "Noticias",
+      "url": "https://stmv2.srvif.com/globonews/globonews/playlist.m3u8"
+    },
+    {
+      "name": "CNN Brasil (rest.)",
+      "cat": "Noticias",
+      "url": "https://stmv2.srvif.com/cnnbrasil/cnnbrasil/playlist.m3u8"
     },
     {
       "name": "Canal Gov",
@@ -173,49 +198,34 @@
       "url": "https://canalgov-stream.ebc.com.br/index.m3u8"
     },
     {
-      "name": "TV Brasil Web",
-      "cat": "Variedades",
-      "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-    },
-    {
-      "name": "Rede Minas",
-      "cat": "Educacao",
-      "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
-    },
-    {
-      "name": "TV Camara 1",
-      "cat": "Noticias",
-      "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-    },
-    {
-      "name": "Cine Brasil TV",
-      "cat": "Cinema",
-      "url": "https://cinebrasiltv.brasilstream.com.br/hls/cinebrasiltv/index.m3u8"
-    },
-    {
-      "name": "Plex TV Shows",
+      "name": "GNT (rest.)",
       "cat": "Series",
-      "url": "https://epix-plextvshows-1-us.plex.wurl.tv/playlist.m3u8"
+      "url": "https://stmv2.srvif.com/gnt/gnt/playlist.m3u8"
     },
     {
-      "name": "CNT Nacional",
-      "cat": "Variedades",
-      "url": "https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8"
-    },
-    {
-      "name": "Shout Factory",
-      "cat": "Cinema",
-      "url": "https://shoutfactory-1-us.plex.wurl.tv/playlist.m3u8"
-    },
-    {
-      "name": "Sony Novelas",
+      "name": "Popcornflix",
       "cat": "Series",
-      "url": "https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8"
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=161"
     },
     {
-      "name": "Plex Movies",
-      "cat": "Cinema",
-      "url": "https://epix-plexmovies-1-us.plex.wurl.tv/playlist.m3u8"
+      "name": "Canela Novelas",
+      "cat": "Series",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152"
+    },
+    {
+      "name": "Classic Reruns",
+      "cat": "Series",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1097"
+    },
+    {
+      "name": "Multishow (rest.)",
+      "cat": "Series",
+      "url": "https://stmv2.srvif.com/multishow/multishow/playlist.m3u8"
+    },
+    {
+      "name": "MasterChef BR",
+      "cat": "Series",
+      "url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8"
     }
   ]
 }
